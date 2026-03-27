@@ -1,0 +1,14 @@
+{
+  "name": "info-market-aggregator",
+  "version": "0.1.0",
+  "description": "Unified dashboard API for Polymarket, Manifold, and Kalshi data",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "dev": "ts-node src/index.ts"
+  },
+  "license": "MIT",
+  "keywords": []
+}
